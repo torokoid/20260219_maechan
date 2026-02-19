@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/02/18、朝焼けから鳥とお花、ローカル市場と温泉市場から足湯の夕暮れと星空まで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2026/02/18、朝焼けからメーチャンの街、いつものプールから夕暮れと星空まで !!!</marquee></span></h1>
 
 
 
@@ -398,7 +398,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">朝焼けから鳥とお花、ローカル市場と温泉市場から足湯の夕暮れと星空まででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">朝焼けからメーチャンの街、いつものプールから夕暮れと星空まででした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
